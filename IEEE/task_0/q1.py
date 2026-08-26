@@ -24,4 +24,3 @@ for i in range(N):
 print("Even count:", even_count)
 print("Odd count:", odd_count)
 print("Reversed:", *(my_list[::-1]))
-
