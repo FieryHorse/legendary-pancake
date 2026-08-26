@@ -9,3 +9,4 @@ expected output will be generated
 q3:
 enter a number upto which you wish to receive all prime numbers
 q4: 
+all outputs are in expected order
