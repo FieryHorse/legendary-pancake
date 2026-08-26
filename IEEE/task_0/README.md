@@ -6,3 +6,6 @@ output will be generated as expected
 q2:
 after running the code enter an input of space(s) separated integers and hit enter
 expected output will be generated
+q3:
+enter a number upto which you wish to receive all prime numbers
+q4: 
